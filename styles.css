@@ -1,6 +1,10 @@
 body {
   color: lightblue;
 }
+h1 {
+  color: black;
+  text-align: center;
+}
 
 p {
   font-family: verdana;
